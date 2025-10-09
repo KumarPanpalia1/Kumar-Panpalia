@@ -30,6 +30,6 @@ I enjoy building cool projects, learning new tech, and sharing what I discover a
  
 ## socials :
 💼 [LinkedIn](https://www.linkedin.com/in/kumar-manglam-panpalia-267288330/)  
-📧 [Email Me](panpaliakumarmanglam@gmail.com)  
+📧 [Email Me](mailto:panpaliakumarmanglam@gmail.com)  
 
 ---
