@@ -24,11 +24,10 @@ I enjoy building cool projects, learning new tech, and sharing what I discover a
 ##  Some Things I’ve Built  
 - **Smart Classroom & Timetable Scheduler** – Generates timetables automatically using JS + SQL  
 
-  ---
-- I know im still lacking so I appreciate any help i can get to grow.
-
 ---
 
+ I know im still lacking so I appreciate any help i can get to grow.
+ 
 ## socials :
 💼 [LinkedIn](https://www.linkedin.com/in/kumar-manglam-panpalia-267288330/)  
 📧 [Email Me](panpaliakumarmanglam@gmail.com)  
