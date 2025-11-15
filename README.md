@@ -22,7 +22,8 @@ I enjoy building cool projects, learning new tech, and sharing what I discover a
 ---
 
 ##  Some Things I’ve Built  
-- **Smart Classroom & Timetable Scheduler** – Generates timetables automatically using JS + SQL  
+- **Smart Classroom & Timetable Scheduler** – Generates timetables automatically using JS + SQL
+- **LibLink** - A smart library assistant that tracks deadlines, checks book availability, and recommends books using AI.
 
 ---
 
